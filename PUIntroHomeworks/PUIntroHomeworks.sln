@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheUniqueNumber", "TheUniqu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 2", "Week 2", "{2351CD96-54E6-450B-8423-390EE0F79695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelToTheSunWithSoundSpeedInWater", "TravelToTheSunWithSoundSpeedInWater\TravelToTheSunWithSoundSpeedInWater.csproj", "{3FB67DB8-B0C1-4E3E-82EA-7914A3994E19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thDigit", "4thDigit\4thDigit.csproj", "{322EEF86-F562-443F-B942-DFB497316FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateWeightInTheSolarSystem", "CalculateWeightInTheSolarSystem\CalculateWeightInTheSolarSystem.csproj", "{DFCCFB87-FDA1-4BCC-ABBD-17728F5CD55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{601AA098-B567-4060-9F4C-348F8A6DF3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingToSunWithSoundSpeed", "TravelingToSunWithSoundSpeed\TravelingToSunWithSoundSpeed.csproj", "{51CD9DD1-B187-497C-97C8-E27CCA9BD895}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,16 +37,31 @@ Global
 		{3AA0906D-6DD8-4A8E-BAC1-2A9C32F459B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AA0906D-6DD8-4A8E-BAC1-2A9C32F459B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AA0906D-6DD8-4A8E-BAC1-2A9C32F459B5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3FB67DB8-B0C1-4E3E-82EA-7914A3994E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3FB67DB8-B0C1-4E3E-82EA-7914A3994E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3FB67DB8-B0C1-4E3E-82EA-7914A3994E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3FB67DB8-B0C1-4E3E-82EA-7914A3994E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322EEF86-F562-443F-B942-DFB497316FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322EEF86-F562-443F-B942-DFB497316FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322EEF86-F562-443F-B942-DFB497316FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322EEF86-F562-443F-B942-DFB497316FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCCFB87-FDA1-4BCC-ABBD-17728F5CD55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCCFB87-FDA1-4BCC-ABBD-17728F5CD55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCCFB87-FDA1-4BCC-ABBD-17728F5CD55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCCFB87-FDA1-4BCC-ABBD-17728F5CD55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601AA098-B567-4060-9F4C-348F8A6DF3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601AA098-B567-4060-9F4C-348F8A6DF3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601AA098-B567-4060-9F4C-348F8A6DF3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601AA098-B567-4060-9F4C-348F8A6DF3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CD9DD1-B187-497C-97C8-E27CCA9BD895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CD9DD1-B187-497C-97C8-E27CCA9BD895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CD9DD1-B187-497C-97C8-E27CCA9BD895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CD9DD1-B187-497C-97C8-E27CCA9BD895}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{3FB67DB8-B0C1-4E3E-82EA-7914A3994E19} = {2351CD96-54E6-450B-8423-390EE0F79695}
+		{322EEF86-F562-443F-B942-DFB497316FAD} = {2351CD96-54E6-450B-8423-390EE0F79695}
+		{DFCCFB87-FDA1-4BCC-ABBD-17728F5CD55E} = {2351CD96-54E6-450B-8423-390EE0F79695}
+		{601AA098-B567-4060-9F4C-348F8A6DF3BC} = {2351CD96-54E6-450B-8423-390EE0F79695}
+		{51CD9DD1-B187-497C-97C8-E27CCA9BD895} = {2351CD96-54E6-450B-8423-390EE0F79695}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F52E20DC-E4FF-4A06-A0E0-5E179EAD56FF}
