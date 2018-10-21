@@ -11,13 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheUniqueNumber", "TheUniqu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 2", "Week 2", "{2351CD96-54E6-450B-8423-390EE0F79695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thDigit", "4thDigit\4thDigit.csproj", "{322EEF86-F562-443F-B942-DFB497316FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4thDigit", "4thDigit\4thDigit.csproj", "{322EEF86-F562-443F-B942-DFB497316FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateWeightInTheSolarSystem", "CalculateWeightInTheSolarSystem\CalculateWeightInTheSolarSystem.csproj", "{DFCCFB87-FDA1-4BCC-ABBD-17728F5CD55E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateWeightInTheSolarSystem", "CalculateWeightInTheSolarSystem\CalculateWeightInTheSolarSystem.csproj", "{DFCCFB87-FDA1-4BCC-ABBD-17728F5CD55E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{601AA098-B567-4060-9F4C-348F8A6DF3BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{601AA098-B567-4060-9F4C-348F8A6DF3BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingToSunWithSoundSpeed", "TravelingToSunWithSoundSpeed\TravelingToSunWithSoundSpeed.csproj", "{51CD9DD1-B187-497C-97C8-E27CCA9BD895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelingToSunWithSoundSpeed", "TravelingToSunWithSoundSpeed\TravelingToSunWithSoundSpeed.csproj", "{51CD9DD1-B187-497C-97C8-E27CCA9BD895}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 3", "Week 3", "{F8CBE35D-765C-4C36-A4ED-4EA1230E4041}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusTicketLuckyNumbers", "BusTicketLuckyNumbers\BusTicketLuckyNumbers.csproj", "{91F1C489-9978-4C78-BF1E-A34E064E78D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{F602A1D4-46F3-44B2-A6C9-383F21ABC3A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{B49F82A8-D708-45DB-B652-35DA3C217A44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +61,18 @@ Global
 		{51CD9DD1-B187-497C-97C8-E27CCA9BD895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51CD9DD1-B187-497C-97C8-E27CCA9BD895}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51CD9DD1-B187-497C-97C8-E27CCA9BD895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F1C489-9978-4C78-BF1E-A34E064E78D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F1C489-9978-4C78-BF1E-A34E064E78D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F1C489-9978-4C78-BF1E-A34E064E78D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F1C489-9978-4C78-BF1E-A34E064E78D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F602A1D4-46F3-44B2-A6C9-383F21ABC3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F602A1D4-46F3-44B2-A6C9-383F21ABC3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F602A1D4-46F3-44B2-A6C9-383F21ABC3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F602A1D4-46F3-44B2-A6C9-383F21ABC3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49F82A8-D708-45DB-B652-35DA3C217A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49F82A8-D708-45DB-B652-35DA3C217A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49F82A8-D708-45DB-B652-35DA3C217A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49F82A8-D708-45DB-B652-35DA3C217A44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +82,9 @@ Global
 		{DFCCFB87-FDA1-4BCC-ABBD-17728F5CD55E} = {2351CD96-54E6-450B-8423-390EE0F79695}
 		{601AA098-B567-4060-9F4C-348F8A6DF3BC} = {2351CD96-54E6-450B-8423-390EE0F79695}
 		{51CD9DD1-B187-497C-97C8-E27CCA9BD895} = {2351CD96-54E6-450B-8423-390EE0F79695}
+		{91F1C489-9978-4C78-BF1E-A34E064E78D6} = {F8CBE35D-765C-4C36-A4ED-4EA1230E4041}
+		{F602A1D4-46F3-44B2-A6C9-383F21ABC3A1} = {F8CBE35D-765C-4C36-A4ED-4EA1230E4041}
+		{B49F82A8-D708-45DB-B652-35DA3C217A44} = {F8CBE35D-765C-4C36-A4ED-4EA1230E4041}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F52E20DC-E4FF-4A06-A0E0-5E179EAD56FF}
